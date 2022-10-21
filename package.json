@@ -1,0 +1,21 @@
+{
+  "name": "one-half-dark",
+  "displayName": "One Half Dark",
+  "description": "One Half Dark theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "OneHalfDark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/OneHalfDark-color-theme.json"
+      }
+    ]
+  }
+}
