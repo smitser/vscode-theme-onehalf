@@ -2,10 +2,15 @@
   "name": "one-half-dark",
   "displayName": "One Half Dark",
   "description": "One Half Dark theme",
-  "version": "0.0.1",
+  "version": "0.0.3",
+  "publisher": "Jorn Smits",
   "engines": {
     "vscode": "^1.72.0"
   },
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/smitser/vscode-themes.git"
+	},
   "categories": [
     "Themes"
   ],
