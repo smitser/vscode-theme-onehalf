@@ -3,7 +3,7 @@
   "displayName": "One Half Dark",
   "description": "One Half Dark theme",
   "version": "0.0.3",
-  "publisher": "Jorn Smits",
+  "publisher": "smitser",
   "engines": {
     "vscode": "^1.72.0"
   },
@@ -13,6 +13,11 @@
 	},
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "vscode",
+    "dark",
+    "theme"
   ],
   "contributes": {
     "themes": [
